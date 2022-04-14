@@ -1,0 +1,92 @@
+[
+	"Account Management": {
+		"Login": {
+			"How to sign in/sign up in Mudrex?": "https://support.mudrex.com/hc/en-us/articles/360015314071-Creating-an-account-on-Mudrex",
+			"How can I change/reset my password?": "https://support.mudrex.com/hc/en-us/articles/5706184703257-How-can-I-change-reset-my-password-",
+			"What to do when the Login page says 'Something went wrong'?": "https://support.mudrex.com/hc/en-us/articles/5706227977241-What-to-do-when-the-Login-page-says-Something-went-wrong-",
+			"What to do when I am getting logged out quite often?": "https://support.mudrex.com/hc/en-us/articles/5706283961113-What-to-do-when-I-am-getting-logged-out-quite-often-"
+		},
+		
+		"Change in contact details": {
+			"How can I change my registered phone number/ username?": "https://support.mudrex.com/hc/en-us/articles/5706306774681-How-can-I-change-my-registered-phone-number-username-",
+			"How can I change/de-link my registered email id?": "https://support.mudrex.com/hc/en-us/articles/5706325044249-How-can-I-change-de-link-my-registered-email-id-",
+			"How should I secure my funds if my email got hacked?": "https://support.mudrex.com/hc/en-us/articles/5706395833113-How-should-I-secure-my-funds-if-my-email-got-hacked-"
+		},
+
+		"Account Closure": {
+			"What is the account closure process on Mudrex?": "https://support.mudrex.com/hc/en-us/articles/360002048252-How-can-I-deactivate-my-account-"
+		}
+	},
+	"KYC": {
+		" KYC Verification": {
+			"Why do I need to do KYC?": "https://support.mudrex.com/hc/en-us/articles/5706486761369-Why-do-I-need-to-do-KYC-",
+			"What documents do I need to submit for KYC verification?": "https://support.mudrex.com/hc/en-us/articles/5706518200089-What-documents-do-I-need-to-submit-for-KYC-verification-",
+			"Why was my KYC rejected?": "https://support.mudrex.com/hc/en-us/articles/5706619255321-Why-was-my-KYC-rejected-",
+			"What is the process to complete my KYC for INR transactions?": "https://support.mudrex.com/hc/en-us/articles/4417517821977-KYC-For-Indian-User",
+			"Can I make deposits/withdrawals on Mudrex without completing my KYC?": "https://support.mudrex.com/hc/en-us/articles/5706642328601-Can-I-make-deposits-withdrawals-on-Mudrex-without-completing-my-KYC-",
+			"Will my KYC documents be safe with Mudrex?": "https://support.mudrex.com/hc/en-us/articles/5706665241241-Will-my-KYC-documents-be-safe-with-Mudrex-"
+		},
+
+		"Pending/Rejected State": {
+			"Why was my KYC rejected?": "https://support.mudrex.com/hc/en-us/articles/5706905097881-Why-was-my-KYC-rejected-",
+			"Why was my KYC rejected due to Invalid PAN card?": "https://support.mudrex.com/hc/en-us/articles/5706904106009-Why-was-my-KYC-rejected-due-to-Invalid-PAN-card-"
+		}
+	},
+	"Deposits": {
+		"INR Deposits": {
+			"How to Buy Crypto with INR using UPI/ IMPS/ NEFT or RTGS?": "https://support.mudrex.com/hc/en-us/articles/4414466920857-How-to-Buy-Crypto-with-INR-using-UPI-",
+			"Does Mudrex charge any deposit fee?": "https://support.mudrex.com/hc/en-us/articles/5707000863897-Does-Mudrex-charge-any-deposit-fee-",
+			"Is there a minimum/ maximum deposit limit?": "https://support.mudrex.com/hc/en-us/articles/5707033965465-Is-there-a-minimum-maximum-deposit-limit-",
+			"Where can I get associated UTR number?": "https://support.mudrex.com/hc/en-us/articles/5707084033689-How-long-does-it-take-to-process-INR-deposits-",
+			"What should I do if my INR deposit gets rejected?": "https://support.mudrex.com/hc/en-us/articles/5708029805209-What-should-I-do-if-my-INR-deposit-gets-rejected-"
+		},
+
+		"Crypto Deposits": {
+			"How to deposit crypto in your Mudrex Spot wallet?": "https://support.mudrex.com/hc/en-us/articles/4406146126989-How-to-deposit-crypto-in-your-Mudrex-Spot-wallet-",
+			"Does Mudrex charge any deposit fee on crypto deposits?": "https://support.mudrex.com/hc/en-us/articles/5707159665689-Does-Mudrex-charge-any-deposit-fee-on-crypto-deposits-",
+			"Which all stable coins will be accepted by Mudrex?": "https://support.mudrex.com/hc/en-us/articles/5707175958937-Which-all-stable-coins-will-be-accepted-by-Mudrex-",
+			"What if I forget to use a tag/memo?": "https://support.mudrex.com/hc/en-us/articles/5707222618777-What-if-I-forget-to-use-a-tag-memo-"
+		}
+	},
+	"Withdrawals": {
+		"Crypto Withdrawal": {
+			"Does Mudrex charge any fee on crypto withdrawal?": "https://support.mudrex.com/hc/en-us/articles/5707373711129-Does-Mudrex-charge-any-fee-on-crypto-withdrawal-",
+			"How to Withdraw Crypto from your Mudrex Wallet?": "https://support.mudrex.com/hc/en-us/articles/4406151824269-How-to-Withdraw-Crypto-from-your-Mudrex-Wallet-",
+			"How long does it take to process withdrawals?": "https://support.mudrex.com/hc/en-us/articles/5707450165529-How-long-does-it-take-to-process-withdrawals-",
+			"What if I send the funds to the wrong address, how I can recieve them back?": "https://support.mudrex.com/hc/en-us/articles/4406146162061-Withdrawal-to-a-Wrong-Address",
+			"How to withdraw my rewards?": "https://support.mudrex.com/hc/en-us/articles/5708364882969-How-to-withdraw-my-rewards-"
+		},
+
+		"Reward Program": {
+			"How to redeem a promo code?": "https://support.mudrex.com/hc/en-us/articles/5708157894297-How-to-redeem-a-promo-code-",
+			"My Promo code expired. What can I do to reclaim it?": "https://support.mudrex.com/hc/en-us/articles/5092958314521-What-happens-if-the-reward-expires-",
+			"How to withdraw my rewards?": "https://support.mudrex.com/hc/en-us/articles/5708364882969-How-to-withdraw-my-rewards-",
+			"I have 2 or more promo code. How to redeem the same?": "https://support.mudrex.com/hc/en-us/articles/5708482898457-I-have-2-or-more-promo-code-How-to-redeem-the-same-",
+			"I have a Promo code but it shows invalid. What should be done": "https://support.mudrex.com/hc/en-us/articles/5708456025241-I-have-a-Promo-code-but-it-shows-invalid-What-should-be-done"
+		}
+	},
+	"Coinsets": {
+		"About Coinsets": {
+			"What is coinsets and how it works?": "https://support.mudrex.com/hc/en-us/articles/4406619945625-What-is-Coin-Sets-and-how-does-it-work-",
+			"How do I invest in Coinsets?": "https://support.mudrex.com/hc/en-us/articles/4676581255065-How-do-I-invest-in-Coin-Sets-",
+			"How can I track my Coin Sets Investment": "https://support.mudrex.com/hc/en-us/articles/5707580865177-How-can-I-track-my-Coin-Sets-Investment",
+			"What is the fee for investing in Coin Sets?": "https://support.mudrex.com/hc/en-us/articles/4406628119065-What-is-the-fee-for-investing-in-Coin-Sets-",
+			"How can I sell my coinset investments?": "https://support.mudrex.com/hc/en-us/articles/4675987986201-Remove-Allocation-from-Coin-Sets-Investment"
+		},
+
+		"One Time Investment": {
+			"What is a one time investment?": "https://support.mudrex.com/hc/en-us/articles/5060682107161-What-is-a-One-Time-Investment-",
+			"Is there a minimum and maximum limit for one time investment?": "https://support.mudrex.com/hc/en-us/articles/5061836438041-Is-there-a-minimum-and-maximum-limit-for-One-Time-Investment-",
+			"How can I place order for one time investment?": "https://support.mudrex.com/hc/en-us/articles/5061771279897-How-can-I-place-an-order-for-One-Time-Investment-"
+		},
+
+		"Recurring Investment": {
+			"What is a Recurring Investment? How is it different from One Time Investment?": "https://support.mudrex.com/hc/en-us/articles/4547814189465-What-is-a-Recurring-Investment-How-is-it-different-from-One-Time-Investment-",
+			"How can I start Recurring Investment? (New Users/Existing Users)": "https://support.mudrex.com/hc/en-us/articles/5063321940505-How-can-I-start-investing-in-Recurring-Investment-",
+			"Is there a minimum and maximum limit for recurring investment?": "https://support.mudrex.com/hc/en-us/articles/5063348839065-Is-there-a-minimum-or-maximum-limit-for-Recurring-Investment-",
+			"How can I cancel my recurring investment?": "https://support.mudrex.com/hc/en-us/articles/5707874123161-How-can-I-cancel-my-recurring-investment-",
+			"Can I create multiple recurring investment on a single coinsets?": "https://support.mudrex.com/hc/en-us/articles/5707926513305-Can-I-create-multiple-recurring-investments-on-a-single-Coin-Sets-",
+			"How can I change my SIP amount or date?": "https://support.mudrex.com/hc/en-us/articles/5064989802905-How-can-I-change-my-Recurring-Investment-amount-or-date-"
+		}
+	]
+}
